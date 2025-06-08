@@ -1,5 +1,10 @@
 # Galactic Annihilator
 
+<p align="center">
+  <img src="https://your-image-url.com/image.png" alt="Centered Image" width="300"/>
+</p>
+
+
 A complete, feature-rich, and polished arcade space shooter built with Pygame. This project serves as an example of a well-structured game, demonstrating advanced features like game states, particle effects, and dynamic difficulty scaling. The entire game is contained within a single Python file with no external asset dependencies.
 
 
