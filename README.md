@@ -51,3 +51,7 @@ The program is architected using an object-oriented approach to separate concern
     *   **`Particle`**: A short-lived sprite used to create the explosion effects. Each particle has a random velocity, creating a dynamic burst effect.
 
 *   **Game Loop Logic**: The core loop in the `Game.run()` method checks the current `game_state` and calls the appropriate handler function (`handle_playing_events`, `update_game_state`, `draw_game`, etc.). This state-driven design prevents menu logic from interfering with gameplay logic and vice-versa, resulting in clean and predictable code. Collision detection and game progression (leveling up, spawning new waves) are handled within the `update_game_state` method.
+
+# Important
+
+Any code, readme, etc....., whatever that you see has been written by Cody
