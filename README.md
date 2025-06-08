@@ -54,4 +54,4 @@ The program is architected using an object-oriented approach to separate concern
 
 # Important
 
-Any code, readme, etc....., whatever that you see has been written by Cody
+Any code, readme, file, etc....., whatever that you see has been written by Cody
